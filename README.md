@@ -1,4 +1,4 @@
-# wavehook-for-gpu-memory-restriction
+# nvidia gpu using memory restriction (wavehook)
 wavehook for gpu memory restriction using nVidia GPU
 
 step1. export LD_PRELOAD=/path/wavehook.so
