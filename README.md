@@ -1,5 +1,5 @@
 # nvidia gpu using memory restriction (wavehook)
-## wavehook function restrict and isolate nVidia GPU memory.
+wavehook function restrict and isolate nVidia GPU memory.
 
 step1. export LD_PRELOAD=/path/wavehook.so
 
